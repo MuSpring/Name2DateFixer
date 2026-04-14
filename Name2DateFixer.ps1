@@ -28,7 +28,7 @@ $VideoExtensions = @(".mp4", ".mov", ".avi", ".mkv", ".m4v", ".3gp", ".wmv", ".f
 $AllExtensions   = $ImageExtensions + $VideoExtensions
 
 # ExifTool 可执行文件路径
-$ExifToolPath = "D:\Software\Exiftool\exiftool-13.54_64\exiftool.exe"
+$ExifToolPath = "exiftool"
 
 # =============================================================================
 # 初始化
